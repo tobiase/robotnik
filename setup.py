@@ -32,7 +32,7 @@ setup(
     install_requires=[
         'tornado>=3.0.1',
         'derpconf==0.4.7',
-        'pycurl==7.19.0'
+        'pycurl>=7.19.0'
     ],
 
     entry_points={
